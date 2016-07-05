@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   分享一些我对事物的认知。技术方面的学习为主：算法、设计、管理等，也可能涉及科学、技术、宗教、信仰等话题。
     生命重在思考，让我们一起来探讨“快乐”、“美”、“真理”，而不是“成功”、“名誉”。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.tuoluotech.com" # the base hostname & protocol for your site
 # twitter_username: zhengyk3
 github_username:  janady
 # wechat_username: janady
